@@ -1,0 +1,512 @@
+[
+    {
+        "state": "alabama",
+        "county": "winston",
+        "result_url": "https://www.census.gov/quickfacts/fact/table/winstoncountyalabama/PST045222",
+        "data": [
+            {
+                "Population": [
+                    {
+                        "Population Estimates, July 1, 2022, (V2022)": "23,755"
+                    },
+                    {
+                        "Population estimates base, April 1, 2020, (V2022)": "23,544"
+                    },
+                    {
+                        "Population, percent change - April 1, 2020 (estimates base) to July 1, 2022, (V2022)": "0.9%"
+                    },
+                    {
+                        "Population, Census, April 1, 2020": "23,540"
+                    },
+                    {
+                        "Population, Census, April 1, 2010": "24,484"
+                    }
+                ]
+            },
+            {
+                "Age and Sex": [
+                    {
+                        "Persons under 5 years, percent": "5.1%"
+                    },
+                    {
+                        "Persons under 18 years, percent": "20.2%"
+                    },
+                    {
+                        "Persons 65 years and over, percent": "22.2%"
+                    },
+                    {
+                        "Female persons, percent": "50.1%"
+                    }
+                ]
+            },
+            {
+                "Race and Hispanic Origin": [
+                    {
+                        "White alone, percent": "95.7%"
+                    },
+                    {
+                        "Black or African American alone, percent(a)": "1.2%"
+                    },
+                    {
+                        "American Indian and Alaska Native alone, percent(a)": "0.9%"
+                    },
+                    {
+                        "Asian alone, percent(a)": "0.4%"
+                    },
+                    {
+                        "Native Hawaiian and Other Pacific Islander alone, percent(a)": "0.2%"
+                    },
+                    {
+                        "Two or More Races, percent": "1.7%"
+                    },
+                    {
+                        "Hispanic or Latino, percent(b)": "3.4%"
+                    },
+                    {
+                        "White alone, not Hispanic or Latino, percent": "93.0%"
+                    }
+                ]
+            },
+            {
+                "Population Characteristics": [
+                    {
+                        "Veterans, 2017-2021": "1,310"
+                    },
+                    {
+                        "Foreign born persons, percent, 2017-2021": "1.7%"
+                    }
+                ]
+            },
+            {
+                "Housing": [
+                    {
+                        "Housing units, July 1, 2022, (V2022)": "13,177"
+                    },
+                    {
+                        "Owner-occupied housing unit rate, 2017-2021": "79.9%"
+                    },
+                    {
+                        "Median value of owner-occupied housing units, 2017-2021": "$105,000"
+                    },
+                    {
+                        "Median selected monthly owner costs -with a mortgage, 2017-2021": "$1,112"
+                    },
+                    {
+                        "Median selected monthly owner costs -without a mortgage, 2017-2021": "$351"
+                    },
+                    {
+                        "Median gross rent, 2017-2021": "$591"
+                    },
+                    {
+                        "Building permits, 2022": "2"
+                    }
+                ]
+            },
+            {
+                "Families & Living Arrangements": [
+                    {
+                        "Households, 2017-2021": "9,219"
+                    },
+                    {
+                        "Persons per household, 2017-2021": "2.53"
+                    },
+                    {
+                        "Living in same house 1 year ago, percent of persons age 1 year+, 2017-2021": "88.5%"
+                    },
+                    {
+                        "Language other than English spoken at home, percent of persons age 5 years+, 2017-2021": "2.4%"
+                    }
+                ]
+            },
+            {
+                "Computer and Internet Use": [
+                    {
+                        "Households with a computer, percent, 2017-2021": "85.6%"
+                    },
+                    {
+                        "Households with a broadband Internet subscription, percent, 2017-2021": "76.3%"
+                    }
+                ]
+            },
+            {
+                "Education": [
+                    {
+                        "High school graduate or higher, percent of persons age 25 years+, 2017-2021": "79.3%"
+                    },
+                    {
+                        "Bachelor's degree or higher, percent of persons age 25 years+, 2017-2021": "13.5%"
+                    }
+                ]
+            },
+            {
+                "Health": [
+                    {
+                        "With a disability, under age 65 years, percent, 2017-2021": "18.1%"
+                    },
+                    {
+                        "Persons without health insurance, under age 65 years, percent": "13.7%"
+                    }
+                ]
+            },
+            {
+                "Economy": [
+                    {
+                        "In civilian labor force, total, percent of population age 16 years+, 2017-2021": "51.5%"
+                    },
+                    {
+                        "In civilian labor force, female, percent of population age 16 years+, 2017-2021": "44.6%"
+                    },
+                    {
+                        "Total accommodation and food services sales, 2017 ($1,000)(c)": "D"
+                    },
+                    {
+                        "Total health care and social assistance receipts/revenue, 2017 ($1,000)(c)": "54,696"
+                    },
+                    {
+                        "Total transportation and warehousing receipts/revenue, 2017 ($1,000)(c)": "D"
+                    },
+                    {
+                        "Total retail sales, 2017 ($1,000)(c)": "158,252"
+                    },
+                    {
+                        "Total retail sales per capita, 2017(c)": "$6,662"
+                    }
+                ]
+            },
+            {
+                "Transportation": [
+                    {
+                        "Mean travel time to work (minutes), workers age 16 years+, 2017-2021": "30.4"
+                    }
+                ]
+            },
+            {
+                "Income & Poverty": [
+                    {
+                        "Median household income (in 2021 dollars), 2017-2021": "$46,096"
+                    },
+                    {
+                        "Per capita income in past 12 months (in 2021 dollars), 2017-2021": "$25,624"
+                    },
+                    {
+                        "Persons in poverty, percent": "19.0%"
+                    }
+                ]
+            },
+            {
+                "Businesses": [
+                    {
+                        "Total employer establishments, 2021": "411"
+                    },
+                    {
+                        "Total employment, 2021": "7,749"
+                    },
+                    {
+                        "Total annual payroll, 2021 ($1,000)": "320,657"
+                    },
+                    {
+                        "Total employment, percent change, 2020-2021": "-1.8%"
+                    },
+                    {
+                        "Total nonemployer establishments, 2020": "1,620"
+                    },
+                    {
+                        "All employer firms, Reference year 2017": "378"
+                    },
+                    {
+                        "Men-owned employer firms, Reference year 2017": "271"
+                    },
+                    {
+                        "Women-owned employer firms, Reference year 2017": "47"
+                    },
+                    {
+                        "Minority-owned employer firms, Reference year 2017": "S"
+                    },
+                    {
+                        "Nonminority-owned employer firms, Reference year 2017": "324"
+                    },
+                    {
+                        "Veteran-owned employer firms, Reference year 2017": "24"
+                    },
+                    {
+                        "Nonveteran-owned employer firms, Reference year 2017": "S"
+                    }
+                ]
+            },
+            {
+                "Geography": [
+                    {
+                        "Population per square mile, 2020": "38.4"
+                    },
+                    {
+                        "Population per square mile, 2010": "39.9"
+                    },
+                    {
+                        "Land area in square miles, 2020": "613.00"
+                    },
+                    {
+                        "Land area in square miles, 2010": "612.98"
+                    },
+                    {
+                        "FIPS Code": "01133"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "state": "alabama",
+        "county": "blount",
+        "result_url": "https://www.census.gov/quickfacts/fact/table/blountcountyalabama/PST045222",
+        "data": [
+            {
+                "Population": [
+                    {
+                        "Population Estimates, July 1, 2022, (V2022)": "59,512"
+                    },
+                    {
+                        "Population estimates base, April 1, 2020, (V2022)": "59,130"
+                    },
+                    {
+                        "Population, percent change - April 1, 2020 (estimates base) to July 1, 2022, (V2022)": "0.6%"
+                    },
+                    {
+                        "Population, Census, April 1, 2020": "59,134"
+                    },
+                    {
+                        "Population, Census, April 1, 2010": "57,322"
+                    }
+                ]
+            },
+            {
+                "Age and Sex": [
+                    {
+                        "Persons under 5 years, percent": "5.7%"
+                    },
+                    {
+                        "Persons under 18 years, percent": "22.7%"
+                    },
+                    {
+                        "Persons 65 years and over, percent": "19.1%"
+                    },
+                    {
+                        "Female persons, percent": "50.3%"
+                    }
+                ]
+            },
+            {
+                "Race and Hispanic Origin": [
+                    {
+                        "White alone, percent": "95.4%"
+                    },
+                    {
+                        "Black or African American alone, percent(a)": "1.9%"
+                    },
+                    {
+                        "American Indian and Alaska Native alone, percent(a)": "0.6%"
+                    },
+                    {
+                        "Asian alone, percent(a)": "0.4%"
+                    },
+                    {
+                        "Native Hawaiian and Other Pacific Islander alone, percent(a)": "0.1%"
+                    },
+                    {
+                        "Two or More Races, percent": "1.5%"
+                    },
+                    {
+                        "Hispanic or Latino, percent(b)": "10.1%"
+                    },
+                    {
+                        "White alone, not Hispanic or Latino, percent": "86.0%"
+                    }
+                ]
+            },
+            {
+                "Population Characteristics": [
+                    {
+                        "Veterans, 2017-2021": "3,219"
+                    },
+                    {
+                        "Foreign born persons, percent, 2017-2021": "4.5%"
+                    }
+                ]
+            },
+            {
+                "Housing": [
+                    {
+                        "Housing units, July 1, 2022, (V2022)": "24,943"
+                    },
+                    {
+                        "Owner-occupied housing unit rate, 2017-2021": "79.2%"
+                    },
+                    {
+                        "Median value of owner-occupied housing units, 2017-2021": "$138,100"
+                    },
+                    {
+                        "Median selected monthly owner costs -with a mortgage, 2017-2021": "$1,161"
+                    },
+                    {
+                        "Median selected monthly owner costs -without a mortgage, 2017-2021": "$347"
+                    },
+                    {
+                        "Median gross rent, 2017-2021": "$691"
+                    },
+                    {
+                        "Building permits, 2022": "20"
+                    }
+                ]
+            },
+            {
+                "Families & Living Arrangements": [
+                    {
+                        "Households, 2017-2021": "21,300"
+                    },
+                    {
+                        "Persons per household, 2017-2021": "2.74"
+                    },
+                    {
+                        "Living in same house 1 year ago, percent of persons age 1 year+, 2017-2021": "90.2%"
+                    },
+                    {
+                        "Language other than English spoken at home, percent of persons age 5 years+, 2017-2021": "7.9%"
+                    }
+                ]
+            },
+            {
+                "Computer and Internet Use": [
+                    {
+                        "Households with a computer, percent, 2017-2021": "87.2%"
+                    },
+                    {
+                        "Households with a broadband Internet subscription, percent, 2017-2021": "81.0%"
+                    }
+                ]
+            },
+            {
+                "Education": [
+                    {
+                        "High school graduate or higher, percent of persons age 25 years+, 2017-2021": "83.6%"
+                    },
+                    {
+                        "Bachelor's degree or higher, percent of persons age 25 years+, 2017-2021": "14.9%"
+                    }
+                ]
+            },
+            {
+                "Health": [
+                    {
+                        "With a disability, under age 65 years, percent, 2017-2021": "11.8%"
+                    },
+                    {
+                        "Persons without health insurance, under age 65 years, percent": "12.8%"
+                    }
+                ]
+            },
+            {
+                "Economy": [
+                    {
+                        "In civilian labor force, total, percent of population age 16 years+, 2017-2021": "55.0%"
+                    },
+                    {
+                        "In civilian labor force, female, percent of population age 16 years+, 2017-2021": "48.9%"
+                    },
+                    {
+                        "Total accommodation and food services sales, 2017 ($1,000)(c)": "35,915"
+                    },
+                    {
+                        "Total health care and social assistance receipts/revenue, 2017 ($1,000)(c)": "83,433"
+                    },
+                    {
+                        "Total transportation and warehousing receipts/revenue, 2017 ($1,000)(c)": "49,985"
+                    },
+                    {
+                        "Total retail sales, 2017 ($1,000)(c)": "340,887"
+                    },
+                    {
+                        "Total retail sales per capita, 2017(c)": "$5,898"
+                    }
+                ]
+            },
+            {
+                "Transportation": [
+                    {
+                        "Mean travel time to work (minutes), workers age 16 years+, 2017-2021": "33.9"
+                    }
+                ]
+            },
+            {
+                "Income & Poverty": [
+                    {
+                        "Median household income (in 2021 dollars), 2017-2021": "$52,830"
+                    },
+                    {
+                        "Per capita income in past 12 months (in 2021 dollars), 2017-2021": "$27,309"
+                    },
+                    {
+                        "Persons in poverty, percent": "12.0%"
+                    }
+                ]
+            },
+            {
+                "Businesses": [
+                    {
+                        "Total employer establishments, 2021": "726"
+                    },
+                    {
+                        "Total employment, 2021": "6,765"
+                    },
+                    {
+                        "Total annual payroll, 2021 ($1,000)": "257,981"
+                    },
+                    {
+                        "Total employment, percent change, 2020-2021": "Z"
+                    },
+                    {
+                        "Total nonemployer establishments, 2020": "3,883"
+                    },
+                    {
+                        "All employer firms, Reference year 2017": "586"
+                    },
+                    {
+                        "Men-owned employer firms, Reference year 2017": "268"
+                    },
+                    {
+                        "Women-owned employer firms, Reference year 2017": "S"
+                    },
+                    {
+                        "Minority-owned employer firms, Reference year 2017": "S"
+                    },
+                    {
+                        "Nonminority-owned employer firms, Reference year 2017": "490"
+                    },
+                    {
+                        "Veteran-owned employer firms, Reference year 2017": "S"
+                    },
+                    {
+                        "Nonveteran-owned employer firms, Reference year 2017": "453"
+                    }
+                ]
+            },
+            {
+                "Geography": [
+                    {
+                        "Population per square mile, 2020": "91.7"
+                    },
+                    {
+                        "Population per square mile, 2010": "88.9"
+                    },
+                    {
+                        "Land area in square miles, 2020": "644.89"
+                    },
+                    {
+                        "Land area in square miles, 2010": "644.78"
+                    },
+                    {
+                        "FIPS Code": "01009"
+                    }
+                ]
+            }
+        ]
+    }
+]
