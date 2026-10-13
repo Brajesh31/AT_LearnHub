@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.py text
+*.sh text
+*.sql text
+*.csv text
+*.json text
+*.mp4 binary
+*.tar binary
