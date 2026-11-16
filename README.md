@@ -106,6 +106,12 @@ Use a disposable local MySQL-compatible database. Several scripts contain destru
 
 Selenium examples may require a browser, matching browser driver, Python packages, external sites, and network access. Prefer local test pages. Do not run automation against real accounts or websites without permission. See [Selenium safety and setup](docs/selenium-guidelines.md).
 
+## 🖼️ Visual overview
+
+<p align="center"><img src="docs/assets/learning-ecosystem.svg" alt="AT LearnHub learning ecosystem diagram" width="100%" /></p>
+
+<p align="center"><img src="docs/assets/learnhub-mark.svg" alt="AT LearnHub mark" width="120" /></p>
+
 ## 🧰 Repository structure
 
 The repository is deliberately multi-topic. There is no single app entry point, build command, package lock, or deployment target.
