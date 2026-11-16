@@ -1,14 +1,40 @@
-## Summary
+## 📝 Summary
+Describe the learning resource or documentation change.
 
-Identify the topic folder, exercise, or documentation changed.
+## 🔗 Related issue
+Closes #
 
-## Validation
+## 🧩 Change type
+- [ ] New lesson/exercise
+- [ ] Documentation/index
+- [ ] Bug fix
+- [ ] Dataset/reference update
+- [ ] Tooling/automation
+- [ ] Security or safety
 
-- [ ] Ran the relevant example or syntax check
-- [ ] Documented optional dependencies and inputs
-- [ ] Redacted credentials and personal data
-- [ ] Checked that no generated or private artifacts are included
+## 📚 Learning quality
+- [ ] Objective and audience are clear.
+- [ ] Prerequisites and versions are documented.
+- [ ] Run command and working directory are provided.
+- [ ] Expected output is explained.
+- [ ] Existing lesson context is preserved.
 
-## Learning context
+## 🧪 Validation
+- [ ] Python syntax checked where applicable.
+- [ ] Shell syntax checked where applicable.
+- [ ] JSON validated where applicable.
+- [ ] SQL reviewed and tested only in a disposable database.
+- [ ] Selenium uses a permitted target and compatible browser/driver.
+- [ ] Markdown links and Mermaid blocks reviewed.
 
-Explain the concept demonstrated and any intentional limitations.
+## 🛡️ Safety and licensing
+- [ ] No credentials, cookies, personal data, or private datasets.
+- [ ] Destructive SQL/shell actions are clearly documented.
+- [ ] External automation is authorized.
+- [ ] Third-party licenses and attribution reviewed.
+- [ ] No unverified binaries added.
+
+## 📄 Documentation
+- [ ] Topic catalog and learning path updated.
+- [ ] README/changelog updated where useful.
+- [ ] Source and output files are distinguishable.
