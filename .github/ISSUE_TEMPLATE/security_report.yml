@@ -1,0 +1,27 @@
+name: 🔐 Security or data-handling concern
+description: Report a security problem without publishing secrets or private data.
+title: "[Security]: "
+labels: ["security"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not put credentials, private datasets, personal records, exploit payloads, or browser cookies in this public form. Use the private reporting route in SECURITY.md for active exposures.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary without sensitive data
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Potential impact
+    validations:
+      required: true
+  - type: textarea
+    id: affected
+    attributes:
+      label: Affected path and safe reproduction
+    validations:
+      required: true
