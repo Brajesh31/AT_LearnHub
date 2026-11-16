@@ -1,0 +1,37 @@
+name: Source quality
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**.py"
+      - "**.sh"
+      - "**.json"
+      - ".github/workflows/source-quality.yml"
+  pull_request:
+    paths:
+      - "**.py"
+      - "**.sh"
+      - "**.json"
+      - ".github/workflows/source-quality.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile tracked Python source
+        run: |
+          find . -type f -name '*.py'             -not -path './.git/*'             -not -path '*/Drivers/*'             -print0 | xargs -0 -r python -m py_compile
+      - name: Check tracked shell syntax
+        run: |
+          find . -type f -name '*.sh' -not -path './.git/*' -print0 |
+          while IFS= read -r -d '' file; do bash -n "$file"; done
+      - name: Validate tracked JSON
+        run: |
+          find . -type f -name '*.json' -not -path './.git/*' -print0 |
+          while IFS= read -r -d '' file; do python -m json.tool "$file" > /dev/null; done
