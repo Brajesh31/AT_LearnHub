@@ -1,12 +1,23 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.mypy_cache/
+.ruff_cache/
 .venv/
 venv/
+env/
 .env
 .env.*
 !.env.example
 *.log
 *.tmp
+.DS_Store
+Thumbs.db
 .idea/workspace.xml
-Selenium/**/Drivers/*
+# Local browser profiles and session state
+**/user-data/
+**/browser-profile/
+**/cookies.sqlite
+# Generated artifacts: add only synthetic, intentional fixtures
+*.coverage
+htmlcov/
