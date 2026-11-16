@@ -1,17 +1,39 @@
-# Troubleshooting
+# 🧰 Troubleshooting guide
 
-## Python import or package errors
+## Python
 
-Confirm Python 3, activate the correct virtual environment, and inspect the exercise's local requirement file. Do not install packages globally unless intentionally configured.
+**ModuleNotFoundError:** Activate the intended virtual environment and install dependencies required by that specific exercise.
 
-## Selenium cannot start
+**Wrong Python version:** Check `python --version` and use the intended interpreter.
 
-Check browser and driver compatibility, executable paths, permissions, and whether the target site permits automation. Use a safe test page or fixture.
+**File not found:** Run from the expected directory or resolve paths relative to the script. Quote paths containing spaces.
 
-## Script cannot find a file
+## Linux and shell
 
-Run from the expected working directory or use a path relative to the script. Check spaces, casing, and the unusual filenames preserved in the archive.
+**Permission denied:** Check the executable bit, ownership, and whether the script needs a shell interpreter. Avoid using sudo as a first fix.
 
-## Shell command behaves differently
+**Command not found:** Confirm the command exists in the current distribution and shell.
 
-Confirm the shell and operating system. Linux examples may not run unchanged in PowerShell or Windows Command Prompt.
+## SQL
+
+**Cannot drop/create database:** Check the target schema and permissions. Never point practice scripts at production.
+
+**Foreign-key error:** Inspect parent/child creation order and referenced IDs.
+
+**Character set/collation error:** The script may assume a specific MySQL version or collation.
+
+## Selenium
+
+**Session not created:** Browser and driver versions may be incompatible.
+
+**Driver executable not found:** Many old scripts contain hard-coded absolute paths. Replace with a local, configurable path or managed driver after confirming the intended environment.
+
+**Element not found:** Page structure, selectors, timing, or consent/login state may have changed. Use explicit waits and a permitted test target.
+
+**Browser hangs:** Ensure `quit()` runs in a `finally` block and inspect active browser processes.
+
+**CAPTCHA/access denied:** Stop. Do not attempt to bypass controls. Use an authorized test environment.
+
+## Office documents and archives
+
+Use a compatible office suite. List archive contents before extracting; extract into a temporary directory rather than over the repository.
