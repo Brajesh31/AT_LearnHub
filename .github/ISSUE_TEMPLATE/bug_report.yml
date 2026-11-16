@@ -1,0 +1,40 @@
+name: 🐛 Bug report
+description: Report a reproducible problem in a learning resource.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include credentials, browser cookies, personal data, private datasets, or confidential assignment material.
+  - type: input
+    id: path
+    attributes:
+      label: Resource path
+      description: Exact path of the affected file.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, language/tool version, browser/database version where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Sanitized output
+      description: Remove secrets and private data.
