@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title desc">
+  <title id="title">AT LearnHub mark</title>
+  <desc id="desc">An open book with connected learning nodes.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="18" width="272" height="180" rx="28" fill="#101827"/>
+  <path d="M64 70q48-18 96 12v76q-48-30-96-12z" fill="#eaf2ff" stroke="url(#g)" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M256 70q-48-18-96 12v76q48-30 96-12z" fill="#dffaf4" stroke="url(#g)" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M160 82v78" stroke="#2563eb" stroke-width="5"/>
+  <path d="M88 94q28-8 52 2M88 115q28-8 52 2M180 96q24-10 52-2M180 117q24-10 52-2" stroke="#7894bf" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <circle cx="160" cy="48" r="10" fill="#14b8a6"/>
+  <path d="M160 58v15" stroke="#14b8a6" stroke-width="5"/>
+  <text x="160" y="188" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">AT LEARNHUB</text>
+</svg>
