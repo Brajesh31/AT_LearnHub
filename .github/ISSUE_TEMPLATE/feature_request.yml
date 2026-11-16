@@ -1,0 +1,33 @@
+name: 💡 Learning resource proposal
+description: Propose a new lesson, topic, or improvement.
+title: "[Learning resource]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Learning objective
+    validations:
+      required: true
+  - type: textarea
+    id: audience
+    attributes:
+      label: Intended learner and prerequisites
+    validations:
+      required: true
+  - type: textarea
+    id: outline
+    attributes:
+      label: Proposed topics and exercises
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation and expected outcomes
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source, license and safety considerations
