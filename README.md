@@ -167,4 +167,4 @@ The repository includes an MIT license. See [LICENSE](LICENSE). Third-party docu
 
 <p align="center"><sub>AT LearnHub is an evolving learning archive. Always read the specific lesson and verify its prerequisites before running it.</sub></p>
 
-Last updated: 2026-11-21 03:47 UTC
+Last updated: 2026-11-21 12:10 UTC
